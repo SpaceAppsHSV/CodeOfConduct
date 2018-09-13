@@ -28,7 +28,7 @@ There are also some guidelines as to what not to do as an initial response:
  - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility.
  - Do not offer them input into penalties. This is the staff's responsibility.
 
-Once something is reported to a staff member, immediately meet with Jon Kalb (conference chair) and/or Herb Sutter (ISO C++ Foundation advisor). The main objectives of this meeting is to find out the following:
+Once something is reported to a staff member, immediately meet with someone from the organizing commitee or Urban Engine leadership. The main objectives of this meeting is to find out the following:
 
  - What happened?
  - Are we doing anything about it?
