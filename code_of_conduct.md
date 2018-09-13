@@ -33,7 +33,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "CppCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jon Kalb.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.  Conference staff will be wearing identifying T-shirts and/or name badges.
 
 If the matter is especially urgent, please contact any of these individuals or email conduct@spaceappshsv.com:
 
